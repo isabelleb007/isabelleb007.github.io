@@ -1,0 +1,12 @@
+body { 
+    background: #f4f2f0;
+    font-family: Tahoma, sans-serif;
+    margin: 40px;
+}
+h1 {
+    color: #331a00;
+    text-align: center;
+}
+.about {
+    background: #f7f2ee;
+}
