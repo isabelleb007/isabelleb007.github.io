@@ -10,3 +10,27 @@ h1 {
 .about {
     background: #f7f2ee;
 }
+.projects { display:flex; flex-wrap:wrap; }
+
+.project {
+width: 30%;
+margin: 10px;
+padding: 20px 10px;
+background: #f7f2ee; 
+border-radius: 25%;
+}
+
+.project img{
+    margin: 10px;
+    border: 2px solid #f7f2ee; /* can change color */
+    display: block;
+    margin: auto;
+}
+a { 
+    text-decoration: none; /* changes underline in hyperlink */
+    color: #003153; /* can change color */
+}
+.project p {
+    text-align: center;
+    margin: 15px;
+}
