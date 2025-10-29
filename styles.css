@@ -24,6 +24,8 @@ border-radius: 25%;
     border: 2px solid #f7f2ee; /* can change color */
     display: block;
     margin: auto;
+    max-width: 75%;
+    height: auto;
 }
 a { 
     text-decoration: none; /* changes underline in hyperlink */
