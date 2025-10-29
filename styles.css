@@ -21,7 +21,6 @@ border-radius: 25%;
 }
 
 .project img{
-    margin: 10px;
     border: 2px solid #f7f2ee; /* can change color */
     display: block;
     margin: auto;
