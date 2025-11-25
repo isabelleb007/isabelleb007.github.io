@@ -1,5 +1,6 @@
 body { 
     background: #f4f2f0;
+    font-size: 50;
     font-family: Tahoma, sans-serif;
     margin: 40px;
 }
@@ -33,4 +34,12 @@ a {
 .project p {
     text-align: center;
     margin: 15px;
+}
+.section-title{
+    width: 25%;
+    margin-bottom: 20px;
+    text-align: right;
+}
+.section-content {
+    padding-right: 50px;
 }
