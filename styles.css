@@ -35,11 +35,16 @@ a {
     text-align: center;
     margin: 15px;
 }
+.section{
+    display: flex;
+    margin-bottom: 20px;
+}
 .section-title{
     width: 25%;
-    margin-bottom: 20px;
     text-align: right;
+    padding-left: 25px;
 }
 .section-content {
-    padding-right: 50px;
+    flex-grow: 1;
+    padding-right: 25px;
 }
