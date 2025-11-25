@@ -39,6 +39,7 @@ a {
 .section {
     display: flex;
     margin-bottom: 20px;
+    font-size: 20;
 }
 .section-title {
     width: 25%;
