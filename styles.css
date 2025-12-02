@@ -40,22 +40,13 @@ a {
 }
 .project-left {
     width: 25%;
-    text-align: center;
-    padding-right: 10px;
-}
-.project-right {
-    width: 75%;
-    text-align: center;
-    padding-right: 10px;
-}
-.project-contentR {
-    flex: 1;
-    text-align: center;
-    padding-left: 10px;
+    text-align: left;
+    padding-right: 25px;
 }
 .project-contentL {
     flex: 1;
     text-align: center;
+    padding-top: 20px;
     padding-left:10px;
 }
 /* Resume CSS */
@@ -67,7 +58,7 @@ a {
 .section-title {
     width: 25%;
     font-weight: bold;
-    text-align: center;
+    text-align: left;
 }
 .section-content {
     flex: 1;
